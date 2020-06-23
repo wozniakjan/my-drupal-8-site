@@ -1,6 +1,7 @@
-#
-# A Drush configuration file
-#
-# Docs at https://github.com/drush-ops/drush/blob/master/examples/example.drush.yml
-#
-# Edit or remove this file as needed.
+
+##ddev-generated: Automatically generated drush.yml file.
+# ddev manages this file and may delete or overwrite the file unless this comment is removed.
+# Remove the comment if you don't want ddev to manage this file.'
+
+options:
+  uri: "https://my-drupal-8-site.ddev.site"
