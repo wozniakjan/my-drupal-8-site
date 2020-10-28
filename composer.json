@@ -63,7 +63,7 @@
         "drupal-core-project-message": {
             "include-keys": [
                 "homepage",
-                "support"
+                "support",
             ],
             "post-create-project-cmd-message": [
                 "<bg=blue;fg=white>                                                         </>",
